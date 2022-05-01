@@ -9,7 +9,6 @@ namespace TestJSON
     {
         static void Main(string[] args)
         {
-            const int SENDMSG = 4;
             Console.WriteLine("Test JSON assembler");
             Console.WriteLine("For work it needs the newtonsoft plugin");
 
