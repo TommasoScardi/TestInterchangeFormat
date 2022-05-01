@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestXML", "TestXML\TestXML.csproj", "{F85CD31D-50A5-4F9C-A519-41EB730BC98B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestJSON", "TestJSON\TestJSON.csproj", "{3DFD14E8-B638-44B3-9E06-32654A29469A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F85CD31D-50A5-4F9C-A519-41EB730BC98B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85CD31D-50A5-4F9C-A519-41EB730BC98B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85CD31D-50A5-4F9C-A519-41EB730BC98B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85CD31D-50A5-4F9C-A519-41EB730BC98B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DFD14E8-B638-44B3-9E06-32654A29469A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DFD14E8-B638-44B3-9E06-32654A29469A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DFD14E8-B638-44B3-9E06-32654A29469A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DFD14E8-B638-44B3-9E06-32654A29469A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {555D83ED-4CB8-4CCE-8211-4611FD75DCE0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dru6//QfaG2cBMrPCSYwYtprCqdz05Tzlq4XDNjco5SgUVMIv+VCR0NRzNLKGJkho1vie0+SbBGnGdMj4nlTRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tommaso\\Documents\\Visual Studio 2022\\Projects\\TestInterchangeFormat\\TestJSON\\TestJSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tommaso\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
